@@ -1,0 +1,12 @@
+body{
+  font-family:arial , sans-serif;
+  text-align:center;
+  background-colour:lightblue;
+}
+h1{
+  colour:red;
+}
+p{
+  colour:grey;
+  font-sixe:18px;
+}
